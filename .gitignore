@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+house_model.joblib
+house_features.joblib
+
+# VS Code settings
+.vscode/
