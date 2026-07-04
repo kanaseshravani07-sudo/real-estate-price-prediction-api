@@ -29,17 +29,31 @@ A production-ready <strong>Machine Learning REST API</strong> built with <strong
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-| Technology      | Purpose                   |
-| --------------- | ------------------------- |
-| 🐍 Python       | Core Programming Language |
-| ⚡ FastAPI       | REST API Framework        |
-| 🤖 Scikit-learn | Machine Learning Model    |
-| 🐼 Pandas       | Data Processing           |
-| 📦 Joblib       | Model Serialization       |
-| ✅ Pydantic      | Request Validation        |
-| 🚀 Uvicorn      | ASGI Server               |
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-FFCA28?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge)
+
+</p>
+
+---
+
+| Technology | Purpose |
+|------------|---------|
+| **Python** | Core programming language powering the application and machine learning workflow. |
+| **FastAPI** | High-performance framework for building scalable RESTful APIs. |
+| **Scikit-learn** | Machine learning library used for model training and prediction. |
+| **Pandas** | Data preprocessing, cleaning, and feature engineering. |
+| **Joblib** | Serialization and efficient loading of trained machine learning models. |
+| **Pydantic** | Data validation and request/response schema management. |
+| **Uvicorn** | High-performance ASGI server for deploying the FastAPI application. |
 
 ---
 
