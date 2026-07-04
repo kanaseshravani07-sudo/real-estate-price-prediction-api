@@ -31,20 +31,6 @@ A production-ready <strong>Machine Learning REST API</strong> built with <strong
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-FFCA28?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge)
-
-</p>
-
----
-
 | Technology | Purpose |
 |------------|---------|
 | **Python** | Core programming language powering the application and machine learning workflow. |
